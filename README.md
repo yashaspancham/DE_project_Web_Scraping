@@ -1,3 +1,5 @@
+#I will start working on this again soon
+
 #Stocks
 
 1.Run download_data.py to download data from https://www.screener.in. Alter path as needed
