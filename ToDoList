@@ -1,8 +1,13 @@
-Not sure if I will do this 
-The programmer has plans and this file contains them. # means the task is done.
-1.Design a database of stocks#
-2.Impliment the designed database
-3.Write a script which will update the database using data in DATA folder
-4.Make the database and the updating script in cloud
-5.Make the database auto update
-6.Create more scripts
+This is the Plan /The RoadMap 
+Remember # means done
+1. Write the plan#
+2. Write the Solutions Achitect Document
+3. Figure out web-scraping
+4. Figure out how to store the data in database
+5. Write a cron job to periodically update database
+6. Put the database and cron-jon in cloud
+7. Write APIs to make KPIs and other metrics
+8. Put the API application in cloud
+9. Make a dashboard to display the said KPIs and other data
+10. Put the entire stuff in coud
+11. Figure out DNS and give it a domain
