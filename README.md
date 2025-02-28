@@ -1,4 +1,4 @@
-#I will start working on this again soon
+I have started this Project. Read ToDoList For understanding the stage at which this project is at. 
 
 #Stocks
 
